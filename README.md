@@ -1,2 +1,6 @@
-npm i
+```sh
+npm install
+```
+```sh
 npm run wdio
+```
